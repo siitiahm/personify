@@ -1,0 +1,11 @@
+secret.txt
+dbconnection.txt
+.cache
+__pycache__
+src/__pycache_
+templates/styles/style.css
+templates/styles/style.css.map
+.vs
+.idea
+.cache-arielbric4
+templates/playlist.html

@@ -1,0 +1,108 @@
+// for the personify title
+.header{
+    border-radius: 0%;
+    margin: 0%;
+    background-color: $darkPurple;
+}
+.titleP{
+    color: white;
+    font-family: 'Comfortaa';
+    font-weight: bold;
+    margin-left: 5%;
+    font-size: 4em;
+
+}
+
+
+
+//background image
+body{
+    background-image: url("../css/images/background.png");
+}
+.home-btn{
+    color: $darkPurple2;
+    background-color: pink;
+    font-family: 'Comfortaa';
+    font-weight: bold;
+    font-size: 1.75em;
+    height: fit-content + 2%;
+    width: fit-content + 2%;
+
+}
+.contact-btn{
+    color: $darkPurple2;
+    background-color: pink;
+    font-family: 'Comfortaa';
+    font-weight: bold;
+    font-size: 1.75em;
+    height: fit-content + 2%;
+    width: fit-content + 2%;
+}
+
+.about-btn{
+    color: $darkPurple2;
+    background-color: pink;
+    font-family: 'Comfortaa';
+    font-weight: bold;
+    font-size:1.75em;
+    height: fit-content + 2%;
+    width: fit-content + 2%;
+}
+
+.login-btn{
+    color: $darkPurple2;
+    background-color: pink;
+    font-family: 'Comfortaa';
+    font-weight: bold;
+    font-size: 1.75em;
+    height: fit-content + 2%;
+    width: fit-content + 2%;
+}
+
+.name-btn{
+    color: $darkPurple2;
+    background-color: pink;
+    font-family: 'Comfortaa';
+    font-weight: bold;
+    font-size: 1.75em;
+    height: fit-content + 2%;
+    width: fit-content + 2%;
+}
+
+.scrollmenu{
+ overflow: hidden;
+  background-color: $darkPurple;
+  font-family: 'Comfortaa';
+  display: flex;
+  align-items: center;
+  //align-items: right;
+  justify-content: right;
+  margin-bottom: 1%;
+
+}
+.box{
+    border: 1px solid blue;
+    border-radius: 5%;
+    background-color: rgba(230, 230, 250, 0.493);
+    box-shadow: 2px 2px black;
+    width: 50%;
+    height: 70%;
+    margin: 2.5%;
+    padding: 2%;
+    text-size-adjust: 100%;
+    overflow: scroll;
+    font-family: 'Comfortaa';
+}
+
+.box::-webkit-scrollbar {
+    display: none;
+  }
+    
+  //for the personify subtitle
+.sub{
+    color:whitesmoke;
+    font-family: 'Comfortaa';
+    font-size: 1.25em;
+    font-weight: bold;
+    margin-left: 5%;
+}
